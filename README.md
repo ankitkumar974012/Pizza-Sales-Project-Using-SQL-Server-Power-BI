@@ -1,1 +1,7 @@
 # Pizza-Sales-Project-Using-SQL-Server-Power-BI
+
+The main objective of this project is to delve into the data and extract valuable insights that will aid the pizza outlet in making informed decisions to drive sales and improve its overall business performance. This analysis is carried out using Microsoft SQL Server, a relational database management system known for its robust querying capabilities, and the findings are visualized using Power BI, a powerful business analytics tool. 
+
+The project involves a range of tasks including Microsoft T-SQL, which is a set-based language used to manage and manipulate relational databases, Joins to combine data from multiple tables, Sub-queries to nest queries within one another, and Date Formatting to ensure that the date data is presented in a consistent and understandable format.
+
+The project's data is initially stored in 4 CSV files, which collectively capture a comprehensive snapshot of the pizza outlet's sales over the course of a year. Once the data is extracted and transformed into a more usable format, stored in 13 CSV files using Microsoft SQL Server Queries, it is then presented in Power BI. This presentation of insights includes 5 Key Performance Indicators (KPIs) that offer high-level snapshots of the pizza outlet's performance, as well as 7 other detailed questions designed to uncover nuanced insights that can inform strategic decision-making.
